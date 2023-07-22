@@ -1,0 +1,21 @@
+{
+  "name": "ruirui-theme",
+  "displayName": "RuiRui-theme",
+  "description": "A fresh and clean theme for coders.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ruirui-theme",
+        "uiTheme": "vs",
+        "path": "./themes/ruirui-theme-color-theme.json"
+      }
+    ]
+  }
+}
