@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="310.8432mm"
+   height="352.37289mm"
+   viewBox="0 0 310.8432 352.37289"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="位图.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="false" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-22.652541,124.58899)">
+    <path
+       style="fill:#cce8cf;fill-opacity:1;stroke-width:0.300813"
+       id="path373"
+       sodipodi:type="arc"
+       sodipodi:cx="107.59958"
+       sodipodi:cy="144.72456"
+       sodipodi:rx="84.947037"
+       sodipodi:ry="83.059319"
+       sodipodi:start="0"
+       sodipodi:end="3.1415927"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 192.54662,144.72456 a 84.947037,83.059319 0 0 1 -42.47352,71.93148 84.947037,83.059319 0 0 1 -84.947042,0 84.947037,83.059319 0 0 1 -42.473516,-71.93148" />
+    <path
+       style="fill:#704214;fill-opacity:1;stroke-width:0.300813"
+       id="path373-5"
+       sodipodi:type="arc"
+       sodipodi:cx="108.6599"
+       sodipodi:cy="-144.27055"
+       sodipodi:rx="84.947037"
+       sodipodi:ry="83.059319"
+       sodipodi:start="0"
+       sodipodi:end="3.1415927"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 193.60693,-144.27055 a 84.947037,83.059319 0 0 1 -42.47352,71.931477 84.947037,83.059319 0 0 1 -84.947034,-2e-6 84.947037,83.059319 0 0 1 -42.473516,-71.931475"
+       transform="matrix(0.99999124,0.00418656,0.00418656,-0.99999124,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:22.5778px;white-space:pre;inline-size:49.3381;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       x="65.440681"
+       y="134.65677"
+       id="text3439"
+       transform="matrix(3.7896976,0,0,3.3281495,-218.23942,-275.28403)"><tspan
+         x="65.440681"
+         y="134.65677"
+         id="tspan3663">RUI</tspan></text>
+  </g>
+</svg>
